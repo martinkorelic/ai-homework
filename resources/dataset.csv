@@ -1,0 +1,2001 @@
+COMPANY,CATEGORY
+Citigroup,Banking
+General Electric,Conglomerates
+American Intl Group,Insurance
+ExxonMobil,Oil & gas operations
+BP,Oil & gas operations
+Bank of America,Banking
+HSBC Group,Banking
+Toyota Motor,Consumer durables
+Fannie Mae,Diversified financials
+Wal-Mart Stores,Retailing
+UBS,Diversified financials
+ING Group,Diversified financials
+Royal Dutch/Shell Group,Oil & gas operations
+Berkshire Hathaway,Insurance
+JP Morgan Chase,Banking
+IBM,Technology hardware & equipment
+Total,Oil & gas operations
+BNP Paribas,Banking
+Royal Bank of Scotland,Banking
+Freddie Mac,Diversified financials
+DaimlerChrysler,Consumer durables
+Altria Group,Food drink & tobacco
+ChevronTexaco,Oil & gas operations
+Pfizer,Drugs & biotechnology
+Wells Fargo,Banking
+Verizon Commun,Telecommunications services
+Barclays,Banking
+Morgan Stanley,Diversified financials
+General Motors,Consumer durables
+Nippon Tel & Tel,Telecommunications services
+Microsoft,Software & services
+Nestle,Food drink & tobacco
+SBC Communications,Telecommunications services
+Deutsche Bank Group,Diversified financials
+Siemens Group,Conglomerates
+HBOS,Banking
+ENI,Oil & gas operations
+ConocoPhillips,Oil & gas operations
+Banco Santander Central,Banking
+Merrill Lynch,Diversified financials
+Wachovia,Banking
+Time Warner,Media
+Hewlett-Packard,Technology hardware & equipment
+Procter & Gamble,Household & personal products
+Samsung Electronics,Semiconductors
+Johnson & Johnson,Drugs & biotechnology
+Lloyds TSB Group,Banking
+ABN-Amro Holding,Banking
+Honda Motor,Consumer durables
+American Express,Diversified financials
+Nissan Motor,Consumer durables
+Bank One,Banking
+AXA Group,Insurance
+Societe Generale Group,Banking
+PetroChina,Oil & gas operations
+Goldman Sachs Group,Diversified financials
+BBVA-Banco Bilbao Vizcaya,Banking
+Intel,Semiconductors
+MetLife,Insurance
+Home Depot,Retailing
+Viacom,Media
+Allstate,Insurance
+Merck & Co,Drugs & biotechnology
+Novartis Group,Drugs & biotechnology
+ENEL,Utilities
+Unilever,Food drink & tobacco
+Washington Mutual,Banking
+Credit Agricole,Banking
+Deutsche Post,Transportation
+Comcast,Media
+Volkswagen Group,Consumer durables
+Tokyo Electric Power,Utilities
+Munich Re,Insurance
+BMW-Bayerische Motor,Consumer durables
+Ford Motor,Consumer durables
+Tyco International,Conglomerates
+US Bancorp,Banking
+Roche Group,Drugs & biotechnology
+Royal Bank of Canada,Banking
+GlaxoSmithKline,Drugs & biotechnology
+China Petroleum & Chemical,Oil & gas operations
+Sony,Consumer durables
+Nokia,Technology hardware & equipment
+BellSouth,Telecommunications services
+Walt Disney,Media
+Natl Australia Bank,Banking
+Gazprom,Oil & gas operations
+Carrefour Group,Food markets
+Cisco Systems,Technology hardware & equipment
+FleetBoston Finl,Banking
+RWE Group,Utilities
+UniCredito Italiano,Banking
+BT Group,Telecommunications services
+United Parcel Service,Transportation
+United Technologies,Conglomerates
+Fortis,Diversified financials
+Dow Chemical,Chemicals
+Aegon Insurance Group,Insurance
+Dexia,Banking
+Renault Group,Consumer durables
+Target,Retailing
+Coca-Cola,Food drink & tobacco
+Lehman Bros Holdings,Diversified financials
+PepsiCo,Food drink & tobacco
+Prudential,Insurance
+Bank of Nova Scotia,Banking
+Boeing,Aerospace & defense
+Aventis,Drugs & biotechnology
+Repsol-YPF,Oil & gas operations
+News Corp,Media
+BASF Group,Chemicals
+China Mobile (HK) Hong,Telecommunications services
+Dell,Technology hardware & equipment
+Peugeot Groupe,Consumer durables
+Endesa Group,Utilities
+AT&T,Telecommunications services
+Statoil Group,Oil & gas operations
+Bristol-Myers Squibb,Drugs & biotechnology
+AstraZeneca,Drugs & biotechnology
+Tesco,Food markets
+Abbott Laboratories,Drugs & biotechnology
+BHP Billiton,Materials
+Bayer Group,Chemicals
+Prudential Financial,Insurance
+MBNA,Diversified financials
+Commonwealth Bank Group,Banking
+Petrobras-Petrsleo Brasil,Oil & gas operations
+Sanpaolo IMI,Banking
+Wyeth,Drugs & biotechnology
+Canadian Imperial Bank,Banking
+Motorola,Technology hardware & equipment
+EI du Pont de Nemours,Chemicals
+Den Danske Bank,Banking
+Caterpillar,Capital goods
+Honeywell,Aerospace & defense
+Nordea,Banking
+Anglo American,Materials
+Canon,Business services & supplies
+Travelers Property Cas,Insurance
+Cendant,Hotels restaurants & leisure
+Sun Life Financial,Insurance
+Saint-Gobain,Construction
+East Japan Railway,Transportation
+Hutchison Whampoa,Conglomerates
+Cardinal Health,Health care equipment & services
+Bank of Montreal,Banking
+Alcoa,Materials
+National City,Banking
+Westpac Banking Group,Banking
+Lowe`s Cos,Retailing
+Toronto-Dominion Bank,Banking
+Korea Electric Power,Utilities
+Moller-Maersk,Transportation
+Kookmin Bank,Banking
+British Amer Tobacco,Food drink & tobacco
+Mitsubishi,Trading companies
+Kansai Electric Power,Utilities
+Almanij,Diversified financials
+Millea Holdings,Insurance
+ANZ Banking,Banking
+Countrywide Financial,Diversified financials
+Lockheed Martin,Aerospace & defense
+M,Conglomerates
+Telstra,Telecommunications services
+Eli Lilly and Co,Drugs & biotechnology
+UnitedHealth Group,Health care equipment & services
+Pinault-Printemps-Redoute,Retailing
+Norsk Hydro,Conglomerates
+Northrop Grumman,Aerospace & defense
+Manulife Financial,Insurance
+Chubu Electric Power,Utilities
+Sears Roebuck,Retailing
+Exelon,Utilities
+McDonald`s,Hotels restaurants & leisure
+BCE,Telecommunications services
+HCA,Health care equipment & services
+Aflac,Insurance
+Southern Co,Utilities
+Fifth Third Bancorp,Banking
+Hyundai Motor,Consumer durables
+Amgen,Drugs & biotechnology
+National Grid Transco,Utilities
+Kroger,Food markets
+Lukoil Holding,Oil & gas operations
+SunTrust Banks,Banking
+L`Oreal Group,Household & personal products
+AT&T Wireless,Telecommunications services
+Rio Tinto,Materials
+Iberdrola,Utilities
+Capital One Financial,Diversified financials
+Dominion Resources,Utilities
+Union Pacific,Transportation
+Nextel Commun,Telecommunications services
+ACE,Insurance
+Bank of New York,Banking
+Volvo Group,Capital goods
+Walgreen,Retailing
+Aetna,Health care equipment & services
+UES of,Utilities
+Standard Chartered Group,Banking
+Anheuser-Busch Cos,Food drink & tobacco
+China Telecom,Telecommunications services
+CNP Assurances,Insurance
+Kimberly-Clark,Household & personal products
+Hitachi,Business services & supplies
+ThyssenKrupp Group,Materials
+Sprint FON,Telecommunications services
+Clear Channel Commun,Media
+Denso,Consumer durables
+John Hancock Financial,Insurance
+KDDI,Telecommunications services
+BB&T,Banking
+Yukos,Oil & gas operations
+Marathon Oil,Oil & gas operations
+Groupe Danone,Food drink & tobacco
+First Data,Software & services
+Qwest Communications,Telecommunications services
+Metro AG,Food markets
+Bouygues Group,Construction
+Emerson Electric,Conglomerates
+Allied Irish Banks,Banking
+Principal Financial,Diversified financials
+Svenska Handelsbanken,Banking
+Costco Wholesale,Retailing
+Mitsui & Co,Trading companies
+Takeda Chemical Inds,Drugs & biotechnology
+Chubb,Insurance
+Veolia Environnement,Utilities
+Bear Stearns Cos,Diversified financials
+Banca Intesa,Banking
+FedEx,Transportation
+Central Japan Railway,Transportation
+Texas Instruments,Semiconductors
+Japan Tobacco,Food drink & tobacco
+Deere & Co,Capital goods
+KT,Telecommunications services
+Sara Lee,Food drink & tobacco
+Oracle,Software & services
+PNC Financial Services,Banking
+WellPoint Health,Health care equipment & services
+General Dynamics,Aerospace & defense
+Marsh & McLennan,Insurance
+Indian Oil,Oil & gas operations
+Lafarge,Construction
+Centrica,Utilities
+Coca-Cola Enterprises,Food drink & tobacco
+Banco Bradesco Group,Banking
+Medtronic,Health care equipment & services
+J Sainsbury,Food markets
+Fuji Photo Film,Household & personal products
+State Bank of India Group,Banking
+General Mills,Food drink & tobacco
+State Street,Banking
+Automatic Data,Business services & supplies
+Waste Management,Business services & supplies
+Entergy,Utilities
+Progressive,Insurance
+Pub Svc Enterprise,Utilities
+Carnival Corp,Hotels restaurants & leisure
+Bank of Ireland,Banking
+ConAgra Foods,Food drink & tobacco
+KeyCorp,Banking
+Monte dei Paschi,Banking
+Schlumberger,Oil & gas operations
+Occidental Petroleum,Oil & gas operations
+Ito-Yokado,Food markets
+Cigna,Health care equipment & services
+SEB-Skand Enskilda,Banking
+FPL Group,Utilities
+Burlington Santa Fe,Transportation
+St Paul Cos,Insurance
+Alcan,Materials
+Oil & Natural Gas,Oil & gas operations
+Thomson Corp,Media
+Posco,Materials
+Archer Daniels,Food drink & tobacco
+Mitsui Sumitomo Ins,Insurance
+Sanofi-Synthelabo,Drugs & biotechnology
+McKesson,Health care equipment & services
+CVS,Retailing
+Tohoku Electric Power,Utilities
+Fortum,Oil & gas operations
+Raytheon,Aerospace & defense
+Weyerhaeuser,Materials
+Kyushu Electric Power,Utilities
+Akzo Nobel Group,Chemicals
+Johnson Controls,Consumer durables
+SLM,Diversified financials
+Devon Energy,Oil & gas operations
+Albertsons,Food markets
+Alltel,Telecommunications services
+Illinois Tool Works,Capital goods
+Ricoh,Business services & supplies
+Surgutneftegas Oil,Oil & gas operations
+Aeon,Retailing
+Gap,Retailing
+Gillette,Household & personal products
+Progress Energy,Utilities
+Anthem,Health care equipment & services
+CIC Group,Banking
+Xerox,Business services & supplies
+Golden West Finl,Banking
+Reliance Industries,Oil & gas operations
+Edison International,Utilities
+Sysco,Food markets
+Gannett,Media
+Baxter International,Health care equipment & services
+Scottish Power,Utilities
+Mitsubishi Heavy Inds,Capital goods
+EnCana,Oil & gas operations
+Bridgestone,Consumer durables
+Cathay Financial,Insurance
+Best Buy,Retailing
+Sumitomo,Trading companies
+Eurohypo,Banking
+Deutsche Lufthansa,Transportation
+Vinci Group,Construction
+Singapore Telecom,Telecommunications services
+Power Corp of Canada,Diversified financials
+Swisscom,Telecommunications services
+Banco do Brasil,Banking
+Nortel Networks,Technology hardware & equipment
+Schneider Electric,Capital goods
+Forenings Sparbanken,Banking
+Aire Liquide Group,Chemicals
+BOC Hong Kong,Banking
+XL Capital,Insurance
+Masco,Construction
+Toshiba,Business services & supplies
+Aon,Insurance
+Cadbury Schweppes,Food drink & tobacco
+Sharp,Business services & supplies
+Valero Energy,Oil & gas operations
+Consolidated Edison,Utilities
+Mellon Finl,Banking
+UPM-Kymmene,Materials
+Colgate-Palmolive,Household & personal products
+Federated Dept Strs,Retailing
+Anadarko Petroleum,Oil & gas operations
+Schering-Plough,Drugs & biotechnology
+Compass Group,Hotels restaurants & leisure
+Petro-Canada,Oil & gas operations
+JC Penney,Retailing
+Marks & Spencer,Retailing
+Nippon Oil,Oil & gas operations
+Omnicom Group,Media
+International Paper,Materials
+Old Mutual,Diversified financials
+EMC,Technology hardware & equipment
+Allianz Worldwide,Insurance
+CRH,Construction
+Kingfisher,Retailing
+Kellogg,Food drink & tobacco
+Vodafone,Telecommunications services
+Medco Health Solutions,Health care equipment & services
+NIKE,Household & personal products
+Tribune,Media
+Telenor,Telecommunications services
+Standard Bank Group,Banking
+Chunghwa Telecom,Telecommunications services
+SCA-Svenska Cellulosa,Materials
+Michelin Group,Consumer durables
+Erste Bank,Banking
+Deutsche Telekom,Telecommunications services
+DBS Group,Banking
+SAP,Software & services
+GUS,Retailing
+Holcim,Construction
+Tokyo Gas,Utilities
+Ingersoll-Rand,Conglomerates
+AmerisourceBergen,Health care equipment & services
+Credit Suisse Group,Diversified financials
+FirstEnergy,Utilities
+France Telecom,Telecommunications services
+Cemex,Construction
+May Dept Stores,Retailing
+Firstrand,Banking
+Accenture,Software & services
+Banco Popular Espaqol,Banking
+George Weston,Food markets
+Sberbank of Russia,Banking
+Generali Group,Insurance
+China Unicom,Telecommunications services
+JFE Holdings,Materials
+Christian Dior,Household & personal products
+Henkel Group,Household & personal products
+Lincoln National,Insurance
+Kyocera,Business services & supplies
+Shin-Etsu Chemical,Chemicals
+Woori Finance Holdings,Banking
+Mitsubishi Estate,Diversified financials
+Georgia-Pacific,Materials
+Centex,Construction
+Areva Group,Materials
+TPG,Transportation
+Sumitomo Mitsui Financial,Banking
+E.ON,Utilities
+Mitsubishi Tokyo Finl,Banking
+West Japan Railway,Transportation
+Taiwan Semiconductor,Semiconductors
+Alliance & Leicester,Banking
+Aviva,Insurance
+Mizuho Financial,Banking
+Computer Sciences,Software & services
+Zurich Financial Services,Insurance
+Diageo,Food drink & tobacco
+HJ Heinz,Food drink & tobacco
+SouthTrust,Banking
+Telefsnica,Telecommunications services
+Stora Enso,Materials
+Imperial Tobacco Group,Food drink & tobacco
+Telecom Italia,Telecommunications services
+Kohl`s,Retailing
+Degussa,Chemicals
+Matsushita Electric Indl,Consumer durables
+Comerica,Banking
+Sasol,Oil & gas operations
+Interbrew,Food drink & tobacco
+Amerada Hess,Oil & gas operations
+Regions Financial,Banking
+Sempra Energy,Utilities
+TDC Group,Telecommunications services
+Itochu,Trading companies
+Norfolk Southern,Transportation
+STMicroelectronics,Semiconductors
+PPL,Utilities
+Suez Group,Utilities
+Constellation Energy,Utilities
+Sun Hung Kai Properties,Diversified financials
+Unocal,Oil & gas operations
+HVB-HypoVereinsbank,Banking
+Magna International,Consumer durables
+Qualcomm,Technology hardware & equipment
+Electrolux Group,Consumer durables
+Vivendi Universal,Media
+CIT Group,Diversified financials
+DTE Energy,Utilities
+Swiss Re Group,Insurance
+United Overseas Bank,Banking
+Chugoku Electric Power,Utilities
+Apache,Oil & gas operations
+Portugal Telecom,Telecommunications services
+Eastman Kodak,Household & personal products
+UFJ Holdings,Banking
+M&T Bank,Banking
+Northern Rock,Banking
+Wolseley,Trading companies
+Paccar,Consumer durables
+EDP-Elec de Portugal,Utilities
+Mitsui Fudosan,Diversified financials
+Depfa Bank,Diversified financials
+Suzuki Motor,Consumer durables
+Charles Schwab,Diversified financials
+Itazsa,Banking
+BG Group,Oil & gas operations
+Staples,Retailing
+Pepsi Bottling Group,Food drink & tobacco
+SABMiller,Food drink & tobacco
+Accor,Hotels restaurants & leisure
+Philips Group,Conglomerates
+PTT Public Company,Oil & gas operations
+ABB Group,Capital goods
+Gas Natural SDG,Utilities
+Dai Nippon Printing,Media
+Burlington Resources,Oil & gas operations
+Hartford Finl Service,Insurance
+Marriott Intl,Hotels restaurants & leisure
+TransCanada,Utilities
+InterActiveCorp,Retailing
+Legal & General Group,Insurance
+Safeco,Insurance
+Tyson Foods,Food drink & tobacco
+Altadis,Food drink & tobacco
+PPG Industries,Chemicals
+Shinhan Financial,Banking
+AmSouth Bancorp,Banking
+Equity Office Prop,Diversified financials
+Sibneft,Oil & gas operations
+Limited Brands,Retailing
+Solvay Group,Chemicals
+Takefuji,Diversified financials
+EADS,Aerospace & defense
+BCP-Bco Com Portugujs,Banking
+Kirin Brewery,Food drink & tobacco
+Singapore Airlines,Transportation
+Textron,Conglomerates
+Marubeni,Trading companies
+Duke Energy,Utilities
+Eletrobras,Utilities
+Acom,Diversified financials
+Nomura Holdings,Diversified financials
+Mitsubishi Motors,Consumer durables
+Nationwide Financial,Insurance
+Abbey National,Banking
+Scottish & Southern,Utilities
+Jefferson-Pilot,Insurance
+Vale do Rio Doce,Materials
+Husky Energy,Oil & gas operations
+Orix,Diversified financials
+Commerzbank,Banking
+Air Prods & Chems,Chemicals
+Southwest Airlines,Transportation
+Charter One Finl,Banking
+Aiful,Diversified financials
+BPVN Group,Banking
+Praxair,Chemicals
+Campbell Soup,Food drink & tobacco
+National Bank of Canada,Banking
+Carso Global Telecom,Telecommunications services
+Suncor Energy,Oil & gas operations
+Hannover Re,Insurance
+DR Horton,Construction
+Reckitt Benckiser,Household & personal products
+TJX Cos,Retailing
+Malayan Banking,Banking
+Assoc British Foods,Food drink & tobacco
+St George Bank,Banking
+Porsche,Consumer durables
+Ameren,Utilities
+Marshall & Ilsley,Banking
+Yum Brands,Hotels restaurants & leisure
+ABSA Group,Diversified financials
+Finmeccanica,Aerospace & defense
+Fujitsu,Technology hardware & equipment
+Eaton,Capital goods
+Fortune Brands,Conglomerates
+Cheung Kong,Diversified financials
+Toppan Printing,Media
+Ahold,Food markets
+Unisn Fenosa,Utilities
+Danaher,Capital goods
+Nintendo,Consumer durables
+Cepsa,Oil & gas operations
+Kao,Household & personal products
+Loews,Insurance
+Newmont Mining,Materials
+Sekisui House,Construction
+NEC,Technology hardware & equipment
+AutoNation,Retailing
+Adecco,Business services & supplies
+Northern Trust,Banking
+Brascan,Diversified financials
+Heineken Holding,Food drink & tobacco
+Mitsubishi Chemical,Chemicals
+LM Ericsson,Technology hardware & equipment
+DnB Holding,Banking
+Boots,Food markets
+Richemont,Household & personal products
+Pulte Homes,Construction
+Lennar,Construction
+Nippon Steel,Materials
+Fiat Group,Consumer durables
+EnBW-Energie Baden,Utilities
+Fubon Financial,Diversified financials
+KeySpan,Utilities
+CSX,Transportation
+Fidelity National Finl,Insurance
+Novo-Nordisk,Drugs & biotechnology
+Natexis Banques Populaire,Banking
+Linde,Capital goods
+Alcatel,Technology hardware & equipment
+Sumitomo Chemical,Chemicals
+Resona Holdings,Banking
+BAA,Transportation
+Bunge,Food drink & tobacco
+Turkiye Is Bankasi,Banking
+Canadian National,Transportation
+American Electric,Utilities
+Pitney Bowes,Business services & supplies
+Daiei,Retailing
+Aisin Seiki,Consumer durables
+Vattenfall Europe,Utilities
+CNOOC Hong,Oil & gas operations
+Nan Ya Plastic,Chemicals
+Cinergy,Utilities
+McGraw-Hill Cos,Media
+Royal KPN,Telecommunications services
+National Bank of Greece,Banking
+Rohm and Haas,Chemicals
+Coles Myer,Food markets
+BOC Group,Chemicals
+Promise,Diversified financials
+WPP,Media
+Schering Group,Drugs & biotechnology
+Harley-Davidson,Consumer durables
+Mitsubishi Electric,Capital goods
+Norilsk Nickel,Materials
+Toyota Industries,Consumer durables
+Formosa Petrochemical,Oil & gas operations
+Lear,Consumer durables
+Tenaga Nasional,Utilities
+CLP Holdings,Utilities
+Syngenta,Chemicals
+Woolworths,Food markets
+Arcelor,Materials
+Delhaize Group,Food markets
+China Life Insurance,Insurance
+Banche Popolari Unite,Banking
+Whirlpool,Consumer durables
+Yamanouchi Pharm,Drugs & biotechnology
+H & M Hennes & Mauritz,Retailing
+Assurant,Insurance
+American Standard,Capital goods
+Allied Domecq,Food drink & tobacco
+Safeway Plc,Food markets
+Grupo Ferrovial,Construction
+Osaka Gas,Utilities
+Banca Antonveneta,Banking
+Williams Cos,Utilities
+Becton Dickinson,Health care equipment & services
+Popular,Banking
+Atlas Copco,Capital goods
+Baoshan Iron & Steel,Materials
+Sovereign Bancorp,Banking
+Thales,Aerospace & defense
+Nippon Express,Transportation
+Boston Scientific,Health care equipment & services
+Hellenic Telecom,Telecommunications services
+Hanson,Construction
+Jardine Matheson,Food markets
+Sompo Japan Insurance,Insurance
+Hughes Electronics,Media
+Cablevision NY Group,Media
+British Airways,Transportation
+CenterPoint Energy,Utilities
+Oversea-Chinese Banking,Banking
+Pernod Ricard,Food drink & tobacco
+Chinatrust Financial,Banking
+DSM,Chemicals
+Scottish & Newcastle,Food drink & tobacco
+Industrial Bank of Korea,Banking
+Imperial Chemical Inds,Chemicals
+Merck,Drugs & biotechnology
+Ajinomoto,Food drink & tobacco
+Matsushita Electric Works,Capital goods
+Mazda Motor,Consumer durables
+Sunoco,Oil & gas operations
+MBIA,Insurance
+Starwood Hotels,Hotels restaurants & leisure
+Enbridge,Oil & gas operations
+Cathay Pacific Airways,Transportation
+Sanyo Electric,Consumer durables
+MAN Group,Capital goods
+Continental,Consumer durables
+Dean Foods,Food drink & tobacco
+Safeway,Food markets
+Electronic Data Sys,Software & services
+BAE Systems,Aerospace & defense
+Fuji Heavy Inds,Consumer durables
+Halliburton,Oil & gas operations
+Office Depot,Retailing
+PG&E,Utilities
+Royal & Sun Alliance,Insurance
+Secom,Business services & supplies
+Hon Hai Precision Ind,Technology hardware & equipment
+Hana Bank,Banking
+Union Planters,Banking
+Public Power,Utilities
+Autostrade,Transportation
+Yamato Transport,Transportation
+Avon Products,Household & personal products
+First Tennessee Natl,Banking
+Japan Airlines Sys,Transportation
+Dixons Group,Retailing
+Sandvik,Capital goods
+Sabanci Group,Diversified financials
+Simon Property Group,Diversified financials
+Seagate Technology Cayman,Technology hardware & equipment
+Qantas Airways,Transportation
+Sankyo (pharma),Drugs & biotechnology
+Capitalia,Banking
+Franklin Resources,Diversified financials
+Sumitomo Metal Inds,Materials
+TeliaSonera Group,Telecommunications services
+Royal Caribbean,Hotels restaurants & leisure
+Synovus Finl,Banking
+Sprint PCS,Telecommunications services
+ITT Industries,Conglomerates
+SK Corp,Oil & gas operations
+Everest Re Group,Insurance
+Scania,Capital goods
+Suncorp-Metway,Diversified financials
+TXU,Utilities
+HeidelbergCement,Construction
+Banca Naz del Lavoro,Banking
+Bombardier,Aerospace & defense
+mmO2,Telecommunications services
+Bank Mandiri,Banking
+Celesio,Health care equipment & services
+Sun Microsystems,Technology hardware & equipment
+Cox Communications,Media
+Rohm,Semiconductors
+Sodexho Alliance,Hotels restaurants & leisure
+Cincinnati Financial,Insurance
+Lucent Technologies,Technology hardware & equipment
+Samsung SDI,Business services & supplies
+Mattel,Household & personal products
+Murata Manufacturing,Business services & supplies
+Delphi,Consumer durables
+Swiss Life Holding,Insurance
+Air France Group,Transportation
+Huntington Bancshs,Banking
+Supervalu,Food markets
+Conseco,Diversified financials
+Swire Pacific,Diversified financials
+H&R Block,Business services & supplies
+ASFA-Autoroutes,Transportation
+Guidant,Health care equipment & services
+Ambac Financial Group,Insurance
+Asahi Glass,Construction
+VNU,Media
+Ciba Specialty Chemicals,Chemicals
+Oji Paper,Materials
+Torchmark,Insurance
+Pepco Holdings,Utilities
+Hilton Group,Hotels restaurants & leisure
+Toys R` Us,Retailing
+United Utilities,Utilities
+Taisei,Construction
+OMV Group,Oil & gas operations
+Quest Diagnostics,Health care equipment & services
+Skandia Insurance,Insurance
+British Sky Broadcasting,Media
+White Mountains Ins,Insurance
+Seiko Epson,Technology hardware & equipment
+Unibanco Group,Banking
+MGM Mirage,Hotels restaurants & leisure
+Shikoku Electric Power,Utilities
+Valeo,Consumer durables
+Ebay,Retailing
+AutoZone,Retailing
+New York Community,Banking
+Wesfarmers,Conglomerates
+Mitsui Chemicals,Chemicals
+FCC Group,Construction
+Nippon Yusen,Transportation
+Bradford & Bingley,Diversified financials
+Gallaher Group,Food drink & tobacco
+China Steel,Materials
+Tokyu,Transportation
+Genuine Parts,Consumer durables
+Brambles Group,Business services & supplies
+Parker Hannifin,Capital goods
+Grupo Modelo,Food drink & tobacco
+Amcor,Materials
+Yapi ve Kredi,Banking
+Beiersdorf,Household & personal products
+China Merchants Bank,Banking
+GreenPoint Financial,Banking
+Aramark,Business services & supplies
+Fairfax Financial,Insurance
+Sampo,Insurance
+Estee Lauder Cos,Household & personal products
+Sumitomo Trust & Banking,Banking
+MTR,Transportation
+Lagardere SCA,Media
+America Telecom,Telecommunications services
+UnumProvident,Insurance
+Tostem Inax,Construction
+Lexmark International,Business services & supplies
+Daido Life Insurance,Insurance
+Apple Computer,Technology hardware & equipment
+Inditex,Household & personal products
+adidas-Salomon,Household & personal products
+AES,Utilities
+Land Securities Group,Diversified financials
+North Fork Bancorp,Banking
+Flextronics Intl,Business services & supplies
+El Paso,Oil & gas operations
+Clorox,Household & personal products
+Xcel Energy,Utilities
+AMP,Insurance
+Citic Pacific,Conglomerates
+Mega Financial Holding,Diversified financials
+Caremark Rx,Health care equipment & services
+Baker Hughes,Oil & gas operations
+Eisai,Drugs & biotechnology
+Hershey Foods,Food drink & tobacco
+Equity Residential,Diversified financials
+Kinki Nippon Railway,Transportation
+Huaneng Power Intl,Utilities
+Harrah`s Entertain,Hotels restaurants & leisure
+Stryker,Health care equipment & services
+Old Republic Intl,Insurance
+Liberty Media,Media
+AdvancePCS,Health care equipment & services
+Sumitomo Electric,Capital goods
+Banco de Sabadell,Banking
+Rolls-Royce,Aerospace & defense
+KarstadtQuelle,Retailing
+Telekom Indonesia,Telecommunications services
+Teva Pharmaceutical Inds,Drugs & biotechnology
+Telkom,Telecommunications services
+PartnerRe,Insurance
+Zions Bancorp,Banking
+Tenet Healthcare,Health care equipment & services
+Nipponkoa Insurance,Insurance
+Infineon Technologies,Semiconductors
+Hokkaido Electric Power,Utilities
+TUI Group,Hotels restaurants & leisure
+Mitsui OSK Lines,Transportation
+Humana,Health care equipment & services
+Anglo Irish Bank,Banking
+Bharat Petroleum,Oil & gas operations
+Foster`s Group,Food drink & tobacco
+Banknorth Group,Banking
+Dover,Conglomerates
+Edison,Utilities
+L-3 Communications,Aerospace & defense
+Temple-Inland,Materials
+Hongkong Electric,Utilities
+Friends Provident,Insurance
+Unisys,Software & services
+National Commerce Finl,Banking
+Daiwa Securities,Diversified financials
+Talisman Energy,Oil & gas operations
+Applied Materials,Semiconductors
+Starbucks,Hotels restaurants & leisure
+Bed Bath & Beyond,Retailing
+ICICI Bank,Banking
+Irish Life & Permanent,Insurance
+Murphy Oil,Oil & gas operations
+Forest Labs,Drugs & biotechnology
+Affiliated Computer,Software & services
+Fiserv,Software & services
+Dollar General,Retailing
+Compass Bancshares,Banking
+Aioi Insurance,Insurance
+Femsa,Food drink & tobacco
+United Microelectronics,Semiconductors
+Dassault Aviation,Aerospace & defense
+Express Scripts,Health care equipment & services
+Kajima,Construction
+Wm Morrison Supermarkets,Food markets
+Calpine,Utilities
+Wisconsin Energy,Utilities
+Asahi Breweries,Food drink & tobacco
+Bank of Yokohama,Banking
+Northwest Airlines,Transportation
+Reed Elsevier,Media
+SKF Group,Capital goods
+Telekom Malaysia,Telecommunications services
+VF,Household & personal products
+Unipol,Insurance
+Pearson,Media
+Energy East,Utilities
+Publicis Groupe,Media
+Mohawk Industries,Consumer durables
+Fondiaria-SAI,Insurance
+EFG Eurobank Ergasias,Banking
+SPX,Conglomerates
+Asahi Kasei,Chemicals
+Canadian Natural Res,Oil & gas operations
+Dana,Consumer durables
+Alpha Bank,Banking
+Hindustan Petroleum,Oil & gas operations
+Hokuriku Electric Power,Utilities
+Mediaset,Media
+Intl Game Technology,Hotels restaurants & leisure
+Henderson Land Dev,Diversified financials
+Fresenius,Health care equipment & services
+Nippon Unipac,Materials
+Willis Group Holdings,Insurance
+Electronic Arts,Software & services
+Toyota Tsusho,Trading companies
+NiSource,Utilities
+Kinder Morgan,Utilities
+E-Trade Financial,Diversified financials
+BHW Holding,Diversified financials
+Smiths Group,Conglomerates
+Wm Wrigley Jr,Food drink & tobacco
+Alstom,Capital goods
+Avery Dennison,Business services & supplies
+Analog Devices,Semiconductors
+Hudson City Bancorp,Banking
+LG Card,Diversified financials
+ACS Group,Construction
+Shiseido,Household & personal products
+Westfield America Trust,Diversified financials
+Nordstrom,Retailing
+Thomson,Consumer durables
+Securitas,Business services & supplies
+Koe Group,Diversified financials
+Tatneft,Oil & gas operations
+Wharf (Holdings) Hong,Diversified financials
+Orkla,Food drink & tobacco
+Alliance UniChem,Health care equipment & services
+QBE Insurance Group,Insurance
+Siam Cement,Construction
+Luxottica Group,Household & personal products
+Bank Hapoalim,Banking
+WR Berkley,Insurance
+Rockwell Automation,Capital goods
+Komatsu,Capital goods
+Cable & Wireless,Telecommunications services
+Telecom of New Zealand,Telecommunications services
+Bank of East Asia,Banking
+Yamaha Motor,Consumer durables
+Agilent Technologies,Technology hardware & equipment
+Serono,Drugs & biotechnology
+Sanmina-SCI,Technology hardware & equipment
+Cooper Industries,Capital goods
+Public Bank,Banking
+Fanuc,Capital goods
+Olympus,Health care equipment & services
+EchoStar Commun,Media
+Scana,Utilities
+Sherwin-Williams,Retailing
+Allied Waste Inds,Business services & supplies
+Sudzucker,Food drink & tobacco
+Yahoo,Software & services
+PacifiCare Health,Health care equipment & services
+Westfield Trust,Diversified financials
+SunGard Data Systems,Software & services
+Barrick Gold,Materials
+Shimizu,Construction
+MeadWestvaco,Materials
+TDK,Business services & supplies
+Obayashi,Construction
+Samsung Fire & Marine,Insurance
+Formosa Chems & Fibre,Chemicals
+All Nippon Airways,Transportation
+Nikko Cordial,Diversified financials
+Providian Financial,Diversified financials
+Dentsu,Media
+Bankgesellschaft Berlin,Banking
+AMR,Transportation
+Rentokil Initial,Business services & supplies
+Korea Exchange Bank,Banking
+Interpublic Group,Media
+Jones Apparel Group,Household & personal products
+Macquarie Bank,Diversified financials
+Swatch Group,Household & personal products
+Toray Industries,Household & personal products
+Nissho Iwai-Nichimen,Trading companies
+Kobe Steel,Materials
+Grupo Carso,Conglomerates
+Canadian Pacific Railway,Transportation
+Autoliv,Consumer durables
+Hilton Hotels,Hotels restaurants & leisure
+Shanghai Pudong Dev Bk,Banking
+Taiyo Life Insurance,Insurance
+Daiwa House Industry,Construction
+Vornado Realty,Diversified financials
+Man Group Plc,Diversified financials
+Pioneer,Consumer durables
+British Land,Diversified financials
+Family Dollar Stores,Retailing
+Ameritrade Holding,Diversified financials
+Sanlam South,Insurance
+Antarchile,Diversified financials
+Corporation Mapfre,Insurance
+Next,Retailing
+Fujisawa Pharmaceutical,Drugs & biotechnology
+Credit Foncier,Banking
+Archstone-Smith,Diversified financials
+Veritas Software,Software & services
+Newell Rubbermaid,Household & personal products
+Mediobanca,Diversified financials
+Black & Decker,Consumer durables
+Quanta Computer,Technology hardware & equipment
+Arab Bank,Banking
+Marui,Retailing
+Great Eastern Holdings,Insurance
+Mitsui Trust,Banking
+Inco,Materials
+InterContinental Hotels,Hotels restaurants & leisure
+Corning,Technology hardware & equipment
+Computer Associates,Software & services
+Skanska,Construction
+Daikin Industries,Capital goods
+Kubota,Capital goods
+Exel,Transportation
+MGIC Investment,Insurance
+CenturyTel,Telecommunications services
+Commerce Bancorp,Banking
+RMC Group,Construction
+Insurance Australia Group,Insurance
+Banca Lombarda Group,Banking
+Formosa Plastics,Chemicals
+Solectron,Technology hardware & equipment
+Manpower,Business services & supplies
+Corus Group,Materials
+Telus,Telecommunications services
+Ecolab,Chemicals
+Bbloise Group,Insurance
+Monsanto,Chemicals
+RadioShack,Retailing
+New York Times,Media
+Severn Trent,Utilities
+Boston Properties,Diversified financials
+Shizuoka Bank,Banking
+Oxford Health Plans,Health care equipment & services
+OTP Bank,Banking
+Smurfit-Stone,Materials
+GKN,Consumer durables
+Konica Minolta,Household & personal products
+S-Oil South,Oil & gas operations
+General Growth Prop,Diversified financials
+Northeast Utilities,Utilities
+Korea Gas,Utilities
+MOL,Oil & gas operations
+First American,Insurance
+Sumitomo Realty & Dev,Diversified financials
+Hibernia,Banking
+Rallye,Retailing
+Tobu Railway,Transportation
+Symantec,Software & services
+Washington Post,Media
+M-real,Materials
+Agfa-Gevaert,Household & personal products
+Tomkins,Conglomerates
+KB Home,Construction
+Altana,Drugs & biotechnology
+Amersham,Health care equipment & services
+Koram Bank,Banking
+Sappi,Materials
+Investor,Diversified financials
+Reuters Group,Media
+Caesars Entertainment,Hotels restaurants & leisure
+Ball,Materials
+Knight Ridder,Media
+Daikyo,Diversified financials
+Softbank,Software & services
+Delta Air Lines,Transportation
+Oriental Land,Media
+Leggett & Platt,Consumer durables
+Taisho Pharmaceutical,Drugs & biotechnology
+Deutsche Boerse,Diversified financials
+Sealed Air,Materials
+Bank Leumi Group,Banking
+Health Net,Health care equipment & services
+BPER-Emilia Romagna,Banking
+W&W-Wustenrot,Diversified financials
+Nippon Mining,Oil & gas operations
+Acciona,Construction
+Pirelli & C,Diversified financials
+Doral Financial,Banking
+UAL,Transportation
+Reliant Resources,Utilities
+Banco de Chile,Banking
+Constellation Brands,Food drink & tobacco
+Bangkok Bank,Banking
+RJ Reynolds Tobacco,Food drink & tobacco
+Brookfield Properties,Diversified financials
+Whitbread Holdings,Hotels restaurants & leisure
+Krung-Thai Bank,Banking
+Pinnacle West,Utilities
+Keppel,Diversified financials
+Astoria Financial,Banking
+Remgro,Conglomerates
+Univision Commun,Media
+Maxim Integrated Prods,Semiconductors
+US Steel,Materials
+Cap Gemini Ernst & Young,Software & services
+Legg Mason,Diversified financials
+Zimmer Holdings,Health care equipment & services
+Rinker Group,Construction
+Bankinter,Banking
+Abertis Infraestructuras,Transportation
+AmBev,Food drink & tobacco
+Freeport Copper,Materials
+Asustek Computer,Technology hardware & equipment
+Laboratory Corp Amer,Health care equipment & services
+Johnson Matthey,Materials
+Kone,Construction
+Paychex,Business services & supplies
+Micron Technology,Semiconductors
+Kawasaki Heavy Inds,Capital goods
+WW Grainger,Capital goods
+Metalurgica Gerdau,Materials
+IKB,Banking
+PKN Orlen,Oil & gas operations
+Axis Capital Holdings,Insurance
+Iberia,Transportation
+Associated Banc-Corp,Banking
+Radian Group,Insurance
+CDW,Retailing
+Odakyu Electric Railway,Transportation
+St Jude Medical,Health care equipment & services
+ProLogis,Diversified financials
+Unibail,Diversified financials
+Phelps Dodge,Materials
+Friedman Billings,Diversified financials
+HHG,Insurance
+Outokumpu,Materials
+Carlsberg,Food drink & tobacco
+Ashland,Oil & gas operations
+Abitibi Consolidated,Materials
+China Minsheng Banking,Banking
+NTL,Telecommunications services
+Hyundai Mobis,Consumer durables
+Public Storage,Diversified financials
+Goodyear,Consumer durables
+Liz Claiborne,Household & personal products
+Fluor,Construction
+MTN Group,Telecommunications services
+Kerr-McGee,Oil & gas operations
+EOG Resources,Oil & gas operations
+Coventry Health Care,Health care equipment & services
+Transocean,Oil & gas operations
+OPAP,Hotels restaurants & leisure
+Owens-Illinois,Materials
+Commerce Bancshs,Banking
+Telekom Austria,Telecommunications services
+Shinsegae,Retailing
+Mercantile Bkshs,Banking
+TCF Financial,Banking
+Banco BPI,Diversified financials
+EMI Group,Media
+PICC Property & Casualty,Insurance
+Janus Capital Group,Diversified financials
+Suzuken,Health care equipment & services
+IFIL,Diversified financials
+Hanwha,Trading companies
+American Finl Group,Insurance
+Darden Restaurants,Hotels restaurants & leisure
+Samsung South,Trading companies
+Goodrich,Aerospace & defense
+Rite Aid,Retailing
+General Property Trust,Diversified financials
+Health Management,Health care equipment & services
+Chiron,Drugs & biotechnology
+TRW Automotive Holdings,Consumer durables
+Cez,Utilities
+Bank Central Asia,Banking
+Hong Kong & China Gas,Utilities
+Nitto Denko,Chemicals
+Amazon.com,Retailing
+Ingram Micro,Technology hardware & equipment
+Kasikornbank,Banking
+Seibu Railway,Transportation
+Turkiye Garanti Bankasi,Banking
+Apollo-Education Group,Business services & supplies
+Rogers Communications,Telecommunications services
+Onex,Business services & supplies
+Li & Fung,Trading companies
+Concord EFS,Business services & supplies
+Visteon,Consumer durables
+Royal Numico,Food drink & tobacco
+Quebecor,Media
+Moody`s,Business services & supplies
+Turkcell,Telecommunications services
+iStar Financial,Diversified financials
+Intuit,Software & services
+Linear Technology,Semiconductors
+NVR,Construction
+Banca Popolare di Milano,Banking
+IMS Health,Health care equipment & services
+Commerce Asset Holding,Banking
+Kmart Holding,Retailing
+Grupo Financiero Banorte,Banking
+Nabors Industries,Oil & gas operations
+Ross Stores,Retailing
+Publishing & Broadcasting,Media
+Tokyo Electron,Semiconductors
+CSR Group,Construction
+Biomet,Health care equipment & services
+China Development Finl,Banking
+Alliant Energy,Utilities
+RenaissanceRe Holdings,Insurance
+Smith & Nephew,Health care equipment & services
+Rockwell Collins,Aerospace & defense
+George Wimpey,Construction
+Synthes-Stratec,Health care equipment & services
+Cosmo Oil,Oil & gas operations
+UNY,Retailing
+Yamaha,Household & personal products
+Taiwan Cellular,Telecommunications services
+Kimco Realty,Diversified financials
+Bunzl,Materials
+Xstrata,Materials
+Bluescope Steel,Materials
+Protective Life,Insurance
+Foot Locker,Retailing
+Xilinx,Semiconductors
+Omnicare,Health care equipment & services
+Hypo Real Estate Holding,Diversified financials
+Showa Denko,Chemicals
+Malaysia Intl Shipping,Transportation
+Taiheiyo Cement,Construction
+Navistar Intl,Consumer durables
+Republic Services,Business services & supplies
+Verbund-Austrian Electric,Utilities
+Taylor Woodrow,Construction
+Vulcan Materials,Construction
+mg technologies,Chemicals
+Eiffage,Construction
+Sagem,Technology hardware & equipment
+UST,Food drink & tobacco
+WellChoice,Health care equipment & services
+Yue Yuen Industrial,Household & personal products
+Tele2,Telecommunications services
+Sime Darby,Conglomerates
+Cintas,Business services & supplies
+Wendy`s International,Hotels restaurants & leisure
+Teijin,Chemicals
+Hormel Foods,Food drink & tobacco
+Compal Electronics,Technology hardware & equipment
+MediaTek,Semiconductors
+Wolters Kluwer,Media
+Engelhard,Chemicals
+Rexam,Materials
+ALFA,Conglomerates
+Brown-Forman,Food drink & tobacco
+Nagoya Railroad,Transportation
+Adobe Systems,Software & services
+City National,Banking
+First Financial Holding,Banking
+Taishin Financial Holding,Diversified financials
+Gold Fields,Materials
+NCR,Technology hardware & equipment
+Canadian Tire,Retailing
+Impala Platinum Holdings,Materials
+Norske Skogindustrier,Materials
+Converium Holding,Insurance
+Weatherford Intl,Oil & gas operations
+Rouse,Diversified financials
+Tomen,Trading companies
+Nucor,Materials
+ArvinMeritor,Consumer durables
+Fuji Television Network,Media
+Hankyu,Transportation
+Mitsubishi Materials,Materials
+CMS Energy,Utilities
+Hua Nan Financial,Diversified financials
+Fast Retailing,Retailing
+Rheinmetall,Conglomerates
+Takashimaya,Retailing
+Galeries Lafayette,Retailing
+Italmobiliare,Construction
+Embraer,Aerospace & defense
+Australian Gas Light,Utilities
+Tele Norte Leste,Telecommunications services
+BJ Services,Oil & gas operations
+Kesko Group,Food markets
+Noranda,Materials
+GAIL (India),Utilities
+GlobalSantaFe,Oil & gas operations
+Unitrin,Insurance
+Aluminum Corp of China,Materials
+Advanced Micro,Semiconductors
+Toyo Seikan Kaisha,Materials
+NStar,Utilities
+Hyundai Heavy Industries,Capital goods
+Liberty International,Diversified financials
+Charter Commun,Media
+Ishikawajima-Harima,Capital goods
+Mylan Labs,Drugs & biotechnology
+Coca-Cola HBC,Food drink & tobacco
+Furukawa Electric,Capital goods
+Assa Abloy,Capital goods
+Avaya,Technology hardware & equipment
+Tate & Lyle Group,Food drink & tobacco
+Daito Trust Construction,Construction
+Hoya,Technology hardware & equipment
+Continental Airlines,Transportation
+Isuzu Motors,Consumer durables
+Tele & Data Systems,Telecommunications services
+Invensys,Capital goods
+Bank Negara Indonesia,Banking
+EW Scripps,Media
+Eastman Chemical,Chemicals
+Nexen,Oil & gas operations
+Chiba Bank,Banking
+Ryder System,Business services & supplies
+Biogen Idec,Drugs & biotechnology
+Mirant,Utilities
+Avnet,Technology hardware & equipment
+Astra International,Consumer durables
+Canara Bank,Banking
+Dynegy,Oil & gas operations
+Allmerica Financial,Insurance
+Keio Electric Railway,Transportation
+Keyence,Technology hardware & equipment
+Julius Baer Holding,Diversified financials
+Hua Xia Bank,Banking
+Host Marriott,Diversified financials
+DST Systems,Software & services
+Hynix Semiconductor,Semiconductors
+Hochtief,Construction
+Pactiv,Materials
+Bank of Greece,Banking
+Mediolanum,Insurance
+Nippon TV Network,Media
+Punjab National Bank,Banking
+Advanced Info Service,Telecommunications services
+Sekisui Chemical,Construction
+Korean Air,Transportation
+Pioneer Natural Res,Oil & gas operations
+Plum Creek Timber,Materials
+Thornburg Mortgage,Diversified financials
+Gecina,Diversified financials
+PMI Group,Insurance
+Toll Brothers,Construction
+Bidvest Group,Conglomerates
+Kesa Electricals,Retailing
+XTO Energy,Oil & gas operations
+Petrol Ofisi,Oil & gas operations
+Hermes International,Household & personal products
+Omron,Business services & supplies
+Jabil Circuit,Technology hardware & equipment
+Lend Lease,Diversified financials
+Tupras-Turkiye Petrol,Oil & gas operations
+LG Corp,Chemicals
+Essilor International,Health care equipment & services
+Duke Realty,Diversified financials
+AU Optronics,Technology hardware & equipment
+Brunswick,Consumer durables
+Smith International,Oil & gas operations
+ITC,Food drink & tobacco
+Dogan Holding,Capital goods
+Scor,Insurance
+Acer,Technology hardware & equipment
+Level 3 Commun,Telecommunications services
+Barratt Developments,Construction
+Universal Health,Health care equipment & services
+Brisa,Transportation
+Helvetia Patria,Insurance
+Infosys Technologies,Business services & supplies
+Boise Cascade,Materials
+KKPC-Korea Kumho,Chemicals
+Brinker International,Hotels restaurants & leisure
+Thai Airways Intl,Transportation
+Banca Popolare di Lodi,Banking
+Kelda Group,Utilities
+Avalonbay Communities,Diversified financials
+Webster Financial,Banking
+AmerUs Group,Insurance
+Dainippon Ink & Chems,Chemicals
+China Resources Ent,Conglomerates
+IKON Office Solutions,Business services & supplies
+Alps Electric,Business services & supplies
+Imerys,Construction
+Nikon,Semiconductors
+Smithfield Foods,Food drink & tobacco
+Funai Electric,Consumer durables
+RR Donnelley & Sons,Media
+T Rowe Price,Diversified financials
+Sky Financial Group,Banking
+Daiichi Pharmaceutical,Drugs & biotechnology
+Franz Colruyt,Food markets
+Wipro,Business services & supplies
+Bank of India,Banking
+Triad Hospitals,Health care equipment & services
+Premcor,Oil & gas operations
+Arrow Electronics,Technology hardware & equipment
+Mitchells & Butlers,Hotels restaurants & leisure
+Aareal Bank,Diversified financials
+Sonae SGPS,Conglomerates
+Diamond Lease,Diversified financials
+Enterprise Inns,Hotels restaurants & leisure
+Coca-Cola Amatil,Food drink & tobacco
+Coach,Household & personal products
+Check Point,Software & services
+Hillenbrand Inds,Health care equipment & services
+KLM,Transportation
+Bank of Baroda,Banking
+Hachijuni Bank,Banking
+Persimmon,Construction
+Flagstar Bancorp,Banking
+Adolph Coors,Food drink & tobacco
+Hasbro,Household & personal products
+Aker Kvaerner,Oil & gas operations
+Clariant,Chemicals
+Dollar Tree Stores,Retailing
+Banca Carige,Banking
+BOK Financial,Banking
+Slough Estates,Diversified financials
+Industrivarden,Construction
+Celanese,Chemicals
+Hagemeyer,Trading companies
+Banque Nat de Belgique,Banking
+Apartment Investment,Diversified financials
+KLA-Tencor,Semiconductors
+Oneok,Utilities
+Espirito Santo Finl,Banking
+Groupe Bruxelles Lambert,Diversified financials
+Vendex KBB,Retailing
+HDFC-Housing Devel,Diversified financials
+Citizens Commun,Telecommunications services
+Lyondell Chemical,Chemicals
+Nippon Meat Packers,Food drink & tobacco
+Altera,Semiconductors
+Barnes & Noble,Retailing
+SAS Group,Transportation
+Joyo Bank,Banking
+Colonial BancGroup,Banking
+Rhodia,Chemicals
+McCormick & Co,Food drink & tobacco
+Nippon Shinpan,Diversified financials
+Maxis Communications,Telecommunications services
+Steel Authority of India,Materials
+Valley Natl Bancorp,Banking
+Fuji Electric,Capital goods
+Thermo Electron,Health care equipment & services
+Crown Holdings,Materials
+Rank Group,Hotels restaurants & leisure
+Whole Foods Market,Food markets
+PeopleSoft,Software & services
+Hiroshima Bank,Banking
+Hanwha Chemical,Chemicals
+Bank of Fukuoka,Banking
+Technip,Oil & gas operations
+CarMax,Retailing
+Energizer Holdings,Household & personal products
+Dillard`s,Retailing
+Wiener Stadtische,Insurance
+Kumho Industrial,Consumer durables
+Pakistan Telecom,Telecommunications services
+Tech Data,Technology hardware & equipment
+Annaly Mortgage Mgmt,Diversified financials
+Kawasaki Kisen Kaisha,Transportation
+KT&G,Food drink & tobacco
+Ryanair Holdings,Transportation
+Alitalia Group,Transportation
+Kuraya Sanseido,Health care equipment & services
+Brother Inds,Business services & supplies
+MedImmune,Drugs & biotechnology
+ITV,Media
+New Century Financial,Diversified financials
+Chang Hwa Com Bank,Banking
+Amdocs,Business services & supplies
+Amvescap,Diversified financials
+US Airways Group,Transportation
+Orient,Diversified financials
+Amadeus Global Travel,Business services & supplies
+Schindler Holding,Capital goods
+Placer Dome,Materials
+Westfield Holdings,Diversified financials
+Watson Pharma,Drugs & biotechnology
+Shoppers Drug Mart,Retailing
+International Power,Utilities
+Tiffany,Retailing
+Signet Group,Retailing
+Sacyr-Vallehermoso,Diversified financials
+Cattolica Assicurazioni,Insurance
+Daily Mail & General,Media
+SMC,Capital goods
+Coca-Cola Femsa,Food drink & tobacco
+TECO Energy,Utilities
+Peninsular & Oriental,Transportation
+Seiyu,Food markets
+Cesky Telecom,Telecommunications services
+Imperial Holdings,Transportation
+Circuit City Stores,Retailing
+Benq,Technology hardware & equipment
+Ono Pharmaceutical,Drugs & biotechnology
+Hyundai Merchant Marine,Transportation
+Federal-Mogul,Consumer durables
+Severstal,Materials
+Gudang Garam,Food drink & tobacco
+PepsiAmericas,Food drink & tobacco
+Hovnanian Enterprises,Construction
+Markel,Insurance
+New World Development Hong,Construction
+IndyMac Bancorp,Banking
+Phoenix Cos,Insurance
+Credit Saison,Diversified financials
+Barloworld,Conglomerates
+Nippon Electric Glass,Business services & supplies
+Michaels Stores,Retailing
+SEM-Samsung Electro,Technology hardware & equipment
+First BanCorp,Banking
+StanCorp Financial,Insurance
+Buhrmann,Business services & supplies
+US Commercial,Diversified financials
+Oki Electric Industry,Business services & supplies
+Kerry Group,Food drink & tobacco
+Chesapeake Energy,Oil & gas operations
+Alberto-Culver,Household & personal products
+Hammerson,Diversified financials
+FirstMerit,Banking
+Credito Emiliano,Banking
+Applera-Applied Biosys,Health care equipment & services
+Genzyme-General,Drugs & biotechnology
+Nurnberger Beteiligungs,Insurance
+Outback Steakhouse,Hotels restaurants & leisure
+Westcorp,Banking
+CH Robinson Worldwide,Transportation
+Grupo Mexico,Materials
+BCV Group,Banking
+SGS,Business services & supplies
+LG International,Trading companies
+PCCW,Telecommunications services
+Bank of Hawaii,Banking
+Daewoo Ship & Marine,Capital goods
+Garmin,Technology hardware & equipment
+Investec,Diversified financials
+Grupo Televisa,Media
+Fulton Financial,Banking
+Givaudan,Household & personal products
+Noble Corp,Oil & gas operations
+Acerinox,Materials
+Beckman Coulter,Health care equipment & services
+H Lundbeck,Drugs & biotechnology
+Eurotunnel,Transportation
+Saks,Retailing
+Uniqa,Insurance
+Williams-Sonoma,Retailing
+Ryland Group,Construction
+Singapore Press,Media
+Nok,Chemicals
+Owens Corning,Construction
+Inchcape,Trading companies
+Jacobs Engineering,Construction
+Domtar,Materials
+Cummins,Capital goods
+Toyoda Gosei,Consumer durables
+American Axle & Mfg,Consumer durables
+American Natl Ins,Insurance
+Gunma Bank,Banking
+William Hill Org,Hotels restaurants & leisure
+Wilmington Trust,Banking
+Scientific-Atlanta,Technology hardware & equipment
+Henry Schein,Health care equipment & services
+Network Appliance,Technology hardware & equipment
+Expeditors Intl,Transportation
+Amer Power Conversion,Technology hardware & equipment
+Kawasho,Trading companies
+Ispat International,Materials
+Barr Pharmaceuticals,Drugs & biotechnology
+Polo Ralph Lauren,Household & personal products
+CR Bard,Health care equipment & services
+Synopsys,Software & services
+Sage Group,Software & services
+Holmen,Materials
+BorgWarner,Consumer durables
+Mandalay Resort Group,Hotels restaurants & leisure
+Tata Iron & Steel,Materials
+Chugoku Bank,Banking
+Atos Origin,Business services & supplies
+Randstad Holding,Business services & supplies
+LandAmerica Financial,Insurance
+Pilkington,Construction
+Louisiana-Pacific,Materials
+Harman International,Technology hardware & equipment
+Iscor,Materials
+Sapporo Hokuyo,Banking
+Waters,Health care equipment & services
+Neiman Marcus Group,Retailing
+Empire,Food markets
+Varian Medical Systems,Health care equipment & services
+MONY Group,Insurance
+Pusan Bank,Banking
+Tokyu Land,Diversified financials
+Independence Community,Banking
+Legend Group,Technology hardware & equipment
+Boral,Construction
+Sigma-Aldrich,Chemicals
+Ssangyong Motor,Consumer durables
+Vedior,Business services & supplies
+UTStarcom,Technology hardware & equipment
+Storebrand,Insurance
+Indl Dev Bank of India,Banking
+Potash of Saskatchewan,Chemicals
+Finansbank,Banking
+Hokugin Financial Group,Banking
+Agricultural Bank Greece,Banking
+SNCF Participations,Transportation
+Microchip Technology,Semiconductors
+Aracruz Celulose,Materials
+Bank,Banking
+Manor Care,Health care equipment & services
+AG Edwards,Diversified financials
+Puma,Household & personal products
+voestalpine,Materials
+M6-Metropole Television,Media
+Daegu Bank,Banking
+NCC Group,Construction
+Cimpor-Cimentos Portugal,Construction
+Maytag,Consumer durables
+USG,Construction
+Hays,Business services & supplies
+TransAlta,Utilities
+Financiere de l`Odet,Transportation
+Esprit Holdings,Retailing
+Arch Capital Group,Insurance
+AMB Property,Diversified financials
+OGE Energy,Utilities
+Keihin Electric Express,Transportation
+Johnson Electric Holdings,Capital goods
+Beijing Datang Power,Utilities
+Iyo Bank,Banking
+W Holding,Banking
+Air Canada,Transportation
+Bank of Kyoto,Banking
+Impac Mortgage Holding,Diversified financials
+Lite-On Technology,Technology hardware & equipment
+BancorpSouth,Banking
+Yamaguchi Bank,Banking
+Mitsukoshi,Retailing
+Fuji Fire & Marine,Insurance
+Nissay Dowa General Ins,Insurance
+Singapore Technologies,Aerospace & defense
+Developers Diversified Realty,Diversified financials
+Provident Finl Group,Banking
+BJ`s Wholesale Club,Retailing
+Cullen/Frost Bankers,Banking
+Hyundai South,Trading companies
+Kanematsu,Trading companies
+Advance Auto Parts,Retailing
+Perodua,Consumer durables
+Nanto Bank,Banking
+Reebok International,Household & personal products
+Bilfinger & Berger,Construction
+Investors Financial,Diversified financials
+Daishi Bank,Banking
+Danisco,Food drink & tobacco
+Japan Securities Fin,Diversified financials
+UBE Industries,Chemicals
+Kimberly-Clark de Mexico,Household & personal products
+Petsmart,Retailing
+WPS Resources,Utilities
+Dun & Bradstreet,Business services & supplies
+Pogo Producing,Oil & gas operations
+Fremont General,Banking
+Juroku Bank,Banking
+Nishi-Nippon Bank,Banking
+Tiger Brands,Food drink & tobacco
+Ranbaxy Laboratories,Drugs & biotechnology
+Nishimatsu Construction,Construction
+Petronas Gas,Oil & gas operations
+Enagas,Oil & gas operations
+MDU Resources,Utilities
+Shiga Bank,Banking
+Shenzhen Development Bk,Banking
+Canary Wharf Group,Diversified financials
+Doosan,Trading companies
+Lincare Holdings,Health care equipment & services
+Commercial Bank of Greece,Banking
+Terumo,Health care equipment & services
+Hyakugo Bank,Banking
+Beazer Homes USA,Construction
+ASML Holding,Software & services
+San-In Godo Bank,Banking
+Metso,Capital goods
+CapitaLand,Diversified financials
+Molex,Technology hardware & equipment
+Hyakujushi Bank,Banking
+Federated Investors,Diversified financials
+Union Bank of India,Banking
+NSK,Capital goods
+Kaneka,Chemicals
+IVAX,Drugs & biotechnology
+Banca CR Firenze,Banking
+Israel Discount Bank,Banking
+Montpelier Re Holdings,Insurance
+Leucadia National,Diversified financials
+Yamada Denki,Retailing
+SembCorp Industries,Capital goods
+FirstGroup,Transportation
+Hokkaido Bank,Banking
+Kanebo,Household & personal products
+Grupo Bimbo,Food drink & tobacco
+Winn-Dixie Stores,Food markets
+Higo Bank,Banking
+Ogaki Kyoritsu Bank,Banking
+Sumitomo Metal Mining,Materials
+Shinko Securities,Diversified financials
+Tokyo Leasing,Retailing
+Tesoro Petroleum,Oil & gas operations
+BW Bank,Banking
+Liberty Property,Diversified financials
+Provident Financial Plc,Diversified financials
+EON-Edaran Otomobil,Retailing
+Nomura Research Institute,Business services & supplies
+Taiwan Business Bank,Banking
+Autogrill,Hotels restaurants & leisure
+Tatung,Conglomerates
+Seino Transportation,Transportation
+Bemis,Materials
+Schroders,Diversified financials
+San Miguel,Food drink & tobacco
+Storage Technology,Technology hardware & equipment
+MDC Holdings,Construction
+CJ,Food drink & tobacco
+Molson,Food drink & tobacco
+Intl Flavors & Frags,Chemicals
+CSM,Food drink & tobacco
+Van Lanschot,Diversified financials
+Yanzhou Coal Mining,Materials
+Fraser & Neave,Food drink & tobacco
+Grupo Financiero Inbursa,Banking
+Western Digital,Technology hardware & equipment
+Great A&P Tea,Food markets
+NOVA Chemicals,Chemicals
+Genting,Hotels restaurants & leisure
+Diebold,Business services & supplies
+People`s Bank,Banking
+Nidec,Capital goods
+Gilead Sciences,Drugs & biotechnology
+Toda,Construction
+Fisher Scientific,Health care equipment & services
+Kagoshima Bank,Banking
+Regal Entertainment Group,Media
+Allergan,Drugs & biotechnology
+Hong Leong Credit,Diversified financials
+Washington Federal,Banking
+GTech Holdings,Hotels restaurants & leisure
+Equifax,Business services & supplies
+Broadcom,Semiconductors
+Dentsply Intl,Health care equipment & services
+EMAP,Media
+Neptune Orient Lines,Transportation
+Nissin Food Products,Food drink & tobacco
+Patterson Dental,Health care equipment & services
+Fukuoka City Bank,Banking
+Cephalon,Drugs & biotechnology
+Downey Financial,Banking
+Hokkoku Bank,Banking
+Jean Coutu Group,Retailing
+Guoco Group,Diversified financials
+Allete,Conglomerates
+Dassault Systemes,Software & services
+Dow Jones,Media
+City Developments,Diversified financials
+Isetan,Retailing
+Leopalace21,Diversified financials
+Jaccs,Diversified financials
+Suruga Bank,Banking
+Hanjin Shipping,Transportation
+Musashino Bank,Banking
+Sonic Automotive,Retailing
+Metro Inc,Food markets
+Kiyo Bank,Banking
+Sumisho Lease,Diversified financials
+AmeriCredit,Diversified financials
+Toho Bank,Banking
+Weight Watchers Intl,Business services & supplies
+Pentair,Conglomerates
+BEA Systems,Software & services
+Momiji Holdings,Banking
+Group 4 Falck,Business services & supplies
+Shanghai Automotive,Consumer durables
+Bank of Nagoya,Banking
+Maxtor,Technology hardware & equipment
+Shire Pharmaceuticals,Drugs & biotechnology
+Central Leasing,Diversified financials
+Fresh Del Monte,Food drink & tobacco
+Sankyo (machinery),Consumer durables
+Kyushu-Shinwa Holdings,Banking
+Denway Motors,Consumer durables
+Bank of Bermuda,Banking
+Juniper Networks,Technology hardware & equipment
+Keiyo Bank,Banking
+Ebara,Capital goods
+Erie Indemnity,Insurance
+Kumagai Gumi,Construction
+Travis Perkins,Retailing
+Jyske Bank,Banking
+Maruha,Food drink & tobacco
+Shionogi & Co,Drugs & biotechnology
+Teekay Shipping,Transportation
+Rent-A-Center,Retailing
+TabCorp Holdings,Hotels restaurants & leisure
+QLogic,Semiconductors
+Health Care Property,Diversified financials
+Transmontaigne,Oil & gas operations
+IDB Holding,Diversified financials
+Yamazaki Baking,Food drink & tobacco
+Buderus,Construction
+SEI Investments,Diversified financials
+Oita Bank,Banking
+Kuhne & Nagel Intl,Transportation
+Hyundai Eng & Const,Construction
+Puget Energy,Utilities
+Shikoku Bank,Banking
+Community Health Sys,Health care equipment & services
+Awa Bank,Banking
+Toto,Construction
+JSR,Chemicals
+Stanley Works,Consumer durables
+AWG,Utilities
+Yamanashi Chou Bank,Banking
+Maeda,Construction
+Macerich,Diversified financials
+Jiangsu Expressway,Transportation
+R&G Financial,Banking
+Questar,Utilities
+Britannic Group,Insurance
+Marconi,Technology hardware & equipment
+Hanshin Construction,Construction
+Tokyo Tomin Bank,Banking
+Teck Cominco,Materials
+Service Corp Intl,Business services & supplies
+Bank of Iwate,Banking
+Hudson United Bancorp,Banking
+Swedish Match,Food drink & tobacco
+Aichi Bank,Banking
+AK Steel Holding,Materials
+Sonoco Products,Materials
+Casio Computer,Business services & supplies
+Abercrombie & Fitch,Retailing
+BPB,Construction
+Commercial Federal,Banking
+Intl Bancshares,Banking
+Soriana,Retailing
+Akita Bank,Banking
+United Auto Group,Retailing
+Endurance Specialty,Insurance
+South Financial Group,Banking
+CNF,Transportation
+Sumitomo Heavy Inds,Capital goods
+INI Steel,Materials
+Great Plains Energy,Utilities
+Rashid Hussain,Banking
+Eighteenth Bank,Banking
+DaVita,Health care equipment & services
+Seat-Pagine Gialle,Business services & supplies
+Aomori Bank,Banking
+Big Food Group,Food markets
+Enka,Construction
+Allegheny Energy,Utilities
+Convergys,Business services & supplies
+Mabuchi Motor,Capital goods
+Pall,Health care equipment & services
+National Fuel Gas,Utilities
+ChoicePoint,Business services & supplies
+Vimpel Communications,Telecommunications services
+Chi Mei Optoelectronics,Technology hardware & equipment
+Shin Kong Financial,Insurance
+Mitsui Engineering & Ship,Capital goods
+Trustmark,Banking
+Fukui Bank,Banking
+Pacific Century Regional,Telecommunications services
+Standard Pacific,Construction
+Redwood Trust,Diversified financials
+Shaw Communications,Media
+DPL,Utilities
+YTL,Utilities
+Minara Resources,Materials
+Salzgitter,Materials
+Santos,Oil & gas operations
+Tochigi Bank,Banking
+Hawaiian Electric,Utilities
+Gambro,Health care equipment & services
+Moore Wallace,Business services & supplies
+Nippon Light Metal,Materials
+LogicaCMG,Business services & supplies
+Chiba Kogyo Bank,Banking
+Guangdong Electric Power,Utilities
+Michinoku Bank,Banking
+ISS,Business services & supplies
+Career Education,Business services & supplies
+Basler Kantonalbank,Banking
+Sumikin Bussan,Trading companies
+Bowater,Materials
+Somerfield,Food markets
+United Mizrahi Bank,Banking
+CSK,Software & services
+Mercury General,Insurance
+Ensco International,Oil & gas operations
+Belo,Media
+Bank of Ikeda,Banking
+Hyosung South,Household & personal products
+Merloni Elettrodomestici,Consumer durables
+Bank of Saga,Banking
+ServiceMaster,Business services & supplies
+Hokuetsu Bank,Banking
+Mercantil Servicios Fin,Diversified financials
+Arriva,Transportation
+International Steel Group,Materials
+Metro Cash and Carry South,Food markets
+Siam Commercial Bank,Banking
+Pixar,Media
+Aplus,Diversified financials
+Woodside Petroleum,Oil & gas operations
+AVA,Retailing
+McClatchy,Media
+Central European Media,Media
+Trizec Properties,Diversified financials
+Bayerische Immobilien,Diversified financials
+Cosco Pacific,Transportation
+MyTravel Group,Hotels restaurants & leisure
+Piraeus Bank,Banking
+Northumbrian Water,Utilities
+Tosoh,Chemicals
+Far EasTone Telecom,Telecommunications services
+Nisshin Steel,Materials
+Del Monte Foods,Food drink & tobacco
+Kangwon Land,Hotels restaurants & leisure
+AMMB Holdings,Diversified financials
+Ceridian,Business services & supplies
+Vishay Intertech,Technology hardware & equipment
+Viad,Business services & supplies
+SPAR Handels,Food markets
+Newfield Exploration,Oil & gas operations
+Yamagata Bank,Banking
+Sierra Pacific Res,Utilities
+Advantest,Software & services
+Farmers Bank of China,Banking
+Banco Pastor,Banking
+Daimaru,Retailing
+Samsung Heavy Industries,Capital goods
+Balfour Beatty,Construction
+Towa Bank,Banking
+Red Eectrica de Espaqa,Utilities
+China Motor,Consumer durables
+Daio Paper,Materials
+Old National Bncp,Banking
+Dah Sing Financial,Banking
+AEM,Utilities
+Antofagasta,Materials
+Research In Motion,Technology hardware & equipment
+Nippon Steel Trading,Trading companies
+SpectraSite,Telecommunications services
+Capitol Federal Finl,Banking
+Laidlaw International,Transportation
+Higashi-Nippon Bank,Banking
+Tokyo Broadcasting System,Media
+Investkredit Bank,Banking
+CBD-Brasil Distribuieco,Trading companies
+WMC Resources,Materials
+Brasil Telecom,Telecommunications services
+BEKB-BCBE,Banking
+Stockland Australia,Diversified financials
+Miyazaki Bank,Banking
+Associated British Ports,Transportation
+Equitable Resources,Utilities
+Siebel Systems,Software & services
+Mahanagar Telephone Nigam,Telecommunications services
+Greater Bay Bancorp,Banking
+Meiji Dairies,Food drink & tobacco
+Natl Semiconductor,Semiconductors
+Borders,Retailing
+FIBI Holding,Banking
+Snow Brand Milk,Food drink & tobacco
+JDS Uniphase,Technology hardware & equipment
+Arthur J Gallagher,Insurance
+LG Construction,Construction
+Gamesa,Capital goods
+Berkeley Group,Construction
+Hanjaya Mandala Sampoerna,Food drink & tobacco
+Agere Systems,Semiconductors
+Daisan Bank,Banking
+OKO Bank,Banking
+First Citizens Bcshs,Banking
+Bausch & Lomb,Health care equipment & services
+St Galler Kantonalbank,Banking
+Wing Lung Bank,Banking
+Avtovaz,Consumer durables
+Arcelik,Consumer durables
+Buenaventura,Materials
+Whitney Holding,Banking
+Chukyo Bank,Banking
+Axel Springer,Media
+ICAP,Diversified financials
+Metro-Goldwyn-Mayer,Media
+Ehime Bank,Banking
+CMPC,Materials
+Finova Group,Diversified financials
+Grupo Imsa,Capital goods
+Hanwa,Trading companies
+Hewitt Associates,Business services & supplies
+Punch Taverns,Hotels restaurants & leisure
+Falabella,Retailing
+Laurus,Food markets
+Alliant Techsystems,Aerospace & defense
+Luzerner Kantonalbank,Banking
+Custodia Holding,Diversified financials
+Iwataya Department Store,Retailing
+Laurentian Bank,Banking
+Bca Popolare di Sondrio,Banking
+Valiant Holding,Banking
+Aquila,Utilities
+BayWa,Food drink & tobacco
+Hirose Electric,Technology hardware & equipment
+Hellenic Petroleum,Oil & gas operations
+Performance Food,Food markets
+Citrix Systems,Business services & supplies
+SEB,Consumer durables
+China Southern Airlines,Transportation
+Cameco,Materials
+Neyveli Lignite,Materials
+SinoPac Holdings,Banking
+Universal,Food drink & tobacco
+Daewoo Intl,Trading companies
+Banco di Sardegna,Banking
+Petroplus Intl,Trading companies
+CSN-Cia Siderurgica,Materials
+Sumitomo Forestry,Construction
+Bharti Tele-Ventures,Telecommunications services
+Indian Overseas Bank,Banking
+Cousins Properties,Diversified financials
+Bank of Ryukyus,Banking
+Bank Philippine Islands,Banking
+Haseko,Construction
+Stanley Electric,Consumer durables
+Mack-Cali Realty,Diversified financials
+Peabody Energy,Materials
+Origin Energy,Utilities
+Sogecable,Media
+Mobilcom,Telecommunications services
+AMEC,Construction
+Siam City Bank,Banking
+Yokogawa Electric,Business services & supplies
+Hindalco Industries,Materials
+Nexans,Capital goods
+Oriental Bank of Commerce,Banking
