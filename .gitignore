@@ -3,3 +3,4 @@
 .venve/
 __pycache__/
 .vscode/
+bert_classifier/
