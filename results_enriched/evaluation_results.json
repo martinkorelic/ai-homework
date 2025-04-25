@@ -1,0 +1,296 @@
+{
+  "metrics": {
+    "accuracy": 0.45588235294117646,
+    "precision": 0.5043524616101823,
+    "recall": 0.45588235294117646,
+    "f1_score": 0.45640018756994,
+    "avg_prediction_time": 0.08965991953619165
+  },
+  "category_accuracy": {
+    "Banking": {
+      "accuracy": 0.7659574468085106,
+      "sample_count": 94
+    },
+    "Diversified financials": {
+      "accuracy": 0.4166666666666667,
+      "sample_count": 48
+    },
+    "Insurance": {
+      "accuracy": 0.29411764705882354,
+      "sample_count": 34
+    },
+    "Utilities": {
+      "accuracy": 0.45454545454545453,
+      "sample_count": 33
+    },
+    "Materials": {
+      "accuracy": 0.43333333333333335,
+      "sample_count": 30
+    },
+    "Oil & gas operations": {
+      "accuracy": 0.5,
+      "sample_count": 28
+    },
+    "Retailing": {
+      "accuracy": 0.5555555555555556,
+      "sample_count": 27
+    },
+    "Food drink & tobacco": {
+      "accuracy": 0.48,
+      "sample_count": 25
+    },
+    "Transportation": {
+      "accuracy": 0.5416666666666666,
+      "sample_count": 24
+    },
+    "Construction": {
+      "accuracy": 0.25,
+      "sample_count": 24
+    },
+    "Consumer durables": {
+      "accuracy": 0.4782608695652174,
+      "sample_count": 23
+    },
+    "Business services & supplies": {
+      "accuracy": 0.09523809523809523,
+      "sample_count": 21
+    },
+    "Telecommunications services": {
+      "accuracy": 0.6190476190476191,
+      "sample_count": 21
+    },
+    "Health care equipment & services": {
+      "accuracy": 0.55,
+      "sample_count": 20
+    },
+    "Media": {
+      "accuracy": 0.631578947368421,
+      "sample_count": 19
+    },
+    "Technology hardware & equipment": {
+      "accuracy": 0.6111111111111112,
+      "sample_count": 18
+    },
+    "Capital goods": {
+      "accuracy": 0.3125,
+      "sample_count": 16
+    },
+    "Chemicals": {
+      "accuracy": 0.0,
+      "sample_count": 15
+    },
+    "Household & personal products": {
+      "accuracy": 0.2857142857142857,
+      "sample_count": 14
+    },
+    "Drugs & biotechnology": {
+      "accuracy": 0.5714285714285714,
+      "sample_count": 14
+    },
+    "Hotels restaurants & leisure": {
+      "accuracy": 0.5,
+      "sample_count": 12
+    },
+    "Software & services": {
+      "accuracy": 0.5,
+      "sample_count": 10
+    },
+    "Food markets": {
+      "accuracy": 0.0,
+      "sample_count": 10
+    },
+    "Conglomerates": {
+      "accuracy": 0.0,
+      "sample_count": 10
+    },
+    "Semiconductors": {
+      "accuracy": 0.0,
+      "sample_count": 8
+    },
+    "Trading companies": {
+      "accuracy": 0.0,
+      "sample_count": 8
+    },
+    "Aerospace & defense": {
+      "accuracy": 0.16666666666666666,
+      "sample_count": 6
+    }
+  },
+  "classification_report": {
+    "Aerospace & defense": {
+      "precision": 0.2,
+      "recall": 0.16666666666666666,
+      "f1-score": 0.18181818181818182,
+      "support": 6.0
+    },
+    "Banking": {
+      "precision": 0.7912087912087912,
+      "recall": 0.7659574468085106,
+      "f1-score": 0.7783783783783784,
+      "support": 94.0
+    },
+    "Business services & supplies": {
+      "precision": 0.07407407407407407,
+      "recall": 0.09523809523809523,
+      "f1-score": 0.08333333333333333,
+      "support": 21.0
+    },
+    "Capital goods": {
+      "precision": 0.45454545454545453,
+      "recall": 0.3125,
+      "f1-score": 0.37037037037037035,
+      "support": 16.0
+    },
+    "Chemicals": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 15.0
+    },
+    "Conglomerates": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 10.0
+    },
+    "Construction": {
+      "precision": 0.75,
+      "recall": 0.25,
+      "f1-score": 0.375,
+      "support": 24.0
+    },
+    "Consumer durables": {
+      "precision": 0.6470588235294118,
+      "recall": 0.4782608695652174,
+      "f1-score": 0.55,
+      "support": 23.0
+    },
+    "Diversified financials": {
+      "precision": 0.4878048780487805,
+      "recall": 0.4166666666666667,
+      "f1-score": 0.449438202247191,
+      "support": 48.0
+    },
+    "Drugs & biotechnology": {
+      "precision": 0.7272727272727273,
+      "recall": 0.5714285714285714,
+      "f1-score": 0.64,
+      "support": 14.0
+    },
+    "Food drink & tobacco": {
+      "precision": 0.5217391304347826,
+      "recall": 0.48,
+      "f1-score": 0.5,
+      "support": 25.0
+    },
+    "Food markets": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 10.0
+    },
+    "Health care equipment & services": {
+      "precision": 0.7857142857142857,
+      "recall": 0.55,
+      "f1-score": 0.6470588235294118,
+      "support": 20.0
+    },
+    "Hotels restaurants & leisure": {
+      "precision": 0.14285714285714285,
+      "recall": 0.5,
+      "f1-score": 0.2222222222222222,
+      "support": 12.0
+    },
+    "Household & personal products": {
+      "precision": 0.16666666666666666,
+      "recall": 0.2857142857142857,
+      "f1-score": 0.21052631578947367,
+      "support": 14.0
+    },
+    "Insurance": {
+      "precision": 0.9090909090909091,
+      "recall": 0.29411764705882354,
+      "f1-score": 0.4444444444444444,
+      "support": 34.0
+    },
+    "Materials": {
+      "precision": 0.40625,
+      "recall": 0.43333333333333335,
+      "f1-score": 0.41935483870967744,
+      "support": 30.0
+    },
+    "Media": {
+      "precision": 0.5217391304347826,
+      "recall": 0.631578947368421,
+      "f1-score": 0.5714285714285714,
+      "support": 19.0
+    },
+    "Oil & gas operations": {
+      "precision": 0.5833333333333334,
+      "recall": 0.5,
+      "f1-score": 0.5384615384615384,
+      "support": 28.0
+    },
+    "Retailing": {
+      "precision": 0.234375,
+      "recall": 0.5555555555555556,
+      "f1-score": 0.32967032967032966,
+      "support": 27.0
+    },
+    "Semiconductors": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 8.0
+    },
+    "Software & services": {
+      "precision": 0.23809523809523808,
+      "recall": 0.5,
+      "f1-score": 0.3225806451612903,
+      "support": 10.0
+    },
+    "Technology hardware & equipment": {
+      "precision": 0.3142857142857143,
+      "recall": 0.6111111111111112,
+      "f1-score": 0.41509433962264153,
+      "support": 18.0
+    },
+    "Telecommunications services": {
+      "precision": 0.6842105263157895,
+      "recall": 0.6190476190476191,
+      "f1-score": 0.65,
+      "support": 21.0
+    },
+    "Trading companies": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 8.0
+    },
+    "Transportation": {
+      "precision": 0.43333333333333335,
+      "recall": 0.5416666666666666,
+      "f1-score": 0.48148148148148145,
+      "support": 24.0
+    },
+    "Utilities": {
+      "precision": 0.5,
+      "recall": 0.45454545454545453,
+      "f1-score": 0.47619047619047616,
+      "support": 33.0
+    },
+    "accuracy": 0.45588235294117646,
+    "macro avg": {
+      "precision": 0.39161685774967475,
+      "recall": 0.3708662569175925,
+      "f1-score": 0.3576612034392227,
+      "support": 612.0
+    },
+    "weighted avg": {
+      "precision": 0.5043524616101823,
+      "recall": 0.45588235294117646,
+      "f1-score": 0.45640018756994,
+      "support": 612.0
+    }
+  }
+}

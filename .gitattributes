@@ -2,3 +2,4 @@ chroma_db_biz/* filter=lfs diff=lfs merge=lfs -text
 chroma_db_forbes_cat/* filter=lfs diff=lfs merge=lfs -text
 chroma_db_yelp_cat/* filter=lfs diff=lfs merge=lfs -text
 bert_classifier/* filter=lfs diff=lfs merge=lfs -text
+resources/yelp_business_data.json filter=lfs diff=lfs merge=lfs -text
