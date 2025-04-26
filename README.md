@@ -8,7 +8,7 @@
 - `scripts` - all the scripts used in the project
 
 Data and models:
-- `bert_classifier/` - BERT fine-tuned model
+- `bert_classifier/` - BERT fine-tuned model (download from Google Drive)
 - `chroma_db_biz/` - Vector database of embedded business names
 - `chroma_db_forbes_cat/` - Vector database of embedded Forbes subcategories
 - `chroma_db_yelp_cat/` - Vector database of embedded Yelp subcategories
