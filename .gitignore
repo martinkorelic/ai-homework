@@ -4,3 +4,6 @@
 __pycache__/
 .vscode/
 bert_classifier/
+chroma_db_biz/
+chroma_db_forbes_cat/
+chroma_db_yelp_cat/
