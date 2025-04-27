@@ -213,7 +213,7 @@ def refine_graph(input_file, output_file, top_n=50):
     
     # For each Forbes node
     for forbes_node in forbes_nodes:
-        # Get all edges connected to this Forbes node
+
         connected_edges = []
         for edge in G.edges(forbes_node, data=True):
             # We're only interested in edges from Forbes to Yelp nodes
@@ -234,10 +234,8 @@ def refine_graph(input_file, output_file, top_n=50):
     yelp_nodes_to_remove = {node for node, attrs in G.nodes(data=True) 
                           if attrs.get('type') == 'yelp' and node not in yelp_nodes_to_keep}
     
-    # Remove Yelp nodes not in our keep set
     G.remove_nodes_from(yelp_nodes_to_remove)
     
-    # Save the refined graph
     nx.write_graphml(G, output_file)
     
     print(f"Graph refined: kept {len(yelp_nodes_to_keep)} Yelp nodes connected to {len(forbes_nodes)} Forbes nodes")
@@ -301,7 +299,6 @@ def visualize_classification_report(y_true, y_pred, labels, output_dir="visualiz
     plt.savefig(os.path.join(output_dir, "confusion_matrix.png"))
     plt.close()
 
-    # === Per-category Accuracy Bar Plot ===
     report_dict = classification_report(y_true, y_pred, labels=labels, output_dict=True)
     category_acc = {label: report_dict[label]["recall"] for label in labels if label in report_dict}
 
@@ -315,7 +312,6 @@ def visualize_classification_report(y_true, y_pred, labels, output_dir="visualiz
     plt.savefig(os.path.join(output_dir, "category_accuracy.png"))
     plt.close()
 
-    # === Save Classification Report as JSON ===
     with open(os.path.join(output_dir, "classification_report.json"), "w") as f:
         json.dump(report_dict, f, indent=4, ensure_ascii=False)
 
@@ -360,7 +356,7 @@ def plot_model_comparisons(evaluation_result_paths, results_paths, labels, outpu
     num_models = len(model_scores)
     num_metrics = len(metric_names)
     x = np.arange(num_metrics)
-    width = 0.8 / num_models  # total width divided among models
+    width = 0.8 / num_models
 
     plt.figure(figsize=(10, 6))
 

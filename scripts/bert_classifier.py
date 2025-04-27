@@ -60,7 +60,6 @@ training_args = TrainingArguments(
     load_best_model_at_end=True,
 )
 
-# === Trainer ===
 trainer = Trainer(
     model=model,
     args=training_args,
@@ -70,5 +69,4 @@ trainer = Trainer(
     data_collator=DataCollatorWithPadding(tokenizer)
 )
 
-# === Train ===
 trainer.train()

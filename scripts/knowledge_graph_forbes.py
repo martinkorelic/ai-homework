@@ -90,7 +90,6 @@ def build_bipartite_graph_with_similarity(company_data, train_map, tag_descripti
             if not G.has_edge(tag, forbes_category):  # Check if the edge already exists
                 G.add_edge(tag, forbes_category, weight=0)  # Add edge with weight 0 if it doesn't exist
 
-    # === Normalize weights per tag ===
     for tag in [n for n, d in G.nodes(data=True) if d["type"] == "tag"]:
         neighbors = list(G.neighbors(tag))
         total = sum(G[tag][nbr]["weight"] for nbr in neighbors)
@@ -98,7 +97,6 @@ def build_bipartite_graph_with_similarity(company_data, train_map, tag_descripti
             for nbr in neighbors:
                 G[tag][nbr]["weight"] /= total
 
-    # === Add similarity scores as edge attributes ===
     tag_nodes = [n for n, d in G.nodes(data=True) if d["type"] == "tag"]
 
     tag_texts = [G.nodes[tag]["description"] for tag in tag_nodes]
@@ -114,7 +112,7 @@ def build_bipartite_graph_with_similarity(company_data, train_map, tag_descripti
             if G.has_edge(tag, fc):
                 G[tag][fc]["sim_score"] = round(float(scores[j]), 4)
             else:
-                # Optional: add edge only if above threshold
+                # add edge only if above threshold
                 G.add_edge(tag, fc, weight=0.0, sim_score=round(float(scores[j]), 4))
 
     return G
